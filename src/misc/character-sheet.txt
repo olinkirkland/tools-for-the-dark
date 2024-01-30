@@ -1,0 +1,75 @@
+details
+	crew
+	name
+	alias
+	look
+	heritage
+	background
+	vice & purveyor
+	coin
+		current
+		total
+	stash
+		current
+		total
+		
+stress
+	current
+	total
+
+harms []
+	level
+  description
+	
+clocks []
+  name
+  description
+  current
+  total
+
+traumas []
+  name
+  description	
+
+playbook
+	name
+	description
+
+special abilities []
+	name
+	description
+	current
+	total
+	
+connections []
+	name
+	description
+	isFriend
+	isRival
+	
+load []
+  name
+  description
+  current
+  total
+
+
+xp
+	playbook
+		current
+		total
+	insight
+		current
+		total
+	prowess
+		current
+		total
+	resolve
+		current
+		total
+
+action ratings []
+	name
+	description
+	current
+	total
